@@ -13,12 +13,14 @@
     
     
     <item>
-      <title>My project</title>
+      <title>Bioluminescence</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>Here I describe my project using Markdown formatting...</description>
+      <description>Comment la bioluminescence pourrait-elle nous être utile ?
+a) Les plantes bioluminescentes :
+la bioluminescence a plusieurs fonctions, utilités. Il serait intéressant de pouvoir l’exploiter à notre profit. Nous vivons une période où les ressources de la Terre s’amoindrissent. Il arrivera un jour où nous manquerons de pétrole et d’autres éléments qui nous sont fort utiles dans notre vie quotidienne. Nous devrons nous rabattre sur les énergies vertes dites renouvelables telles que les éoliennes, les panneaux solaires,… La bioluminescence pourrait alors devenir utile ici sur la terre ferme.</description>
     </item>
     
   </channel>

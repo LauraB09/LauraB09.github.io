@@ -11,12 +11,95 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My project</title>
+      <title>Bioluminescence</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Comment la bioluminescence pourrait-elle nous être utile ?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;a) Les plantes bioluminescentes :&lt;/p&gt;
+
+&lt;p&gt;la bioluminescence a plusieurs fonctions, utilités. Il serait intéressant de pouvoir l’exploiter à notre profit. Nous vivons une période où les ressources de la Terre s’amoindrissent. Il arrivera un jour où nous manquerons de pétrole et d’autres éléments qui nous sont fort utiles dans notre vie quotidienne. Nous devrons nous rabattre sur les énergies vertes dites renouvelables telles que les éoliennes,  les panneaux solaires,… La bioluminescence pourrait alors devenir utile ici sur la terre ferme. Malgré toutes ses fonctionnalités, si la bioluminescence fait bien toujours une chose, c’est d’émettre de la lumière ! Certes, elle ne fournit que de l’énergie lumineuse et ne fonctionne pas comme les panneaux solaires ou les éoliennes mais on pourrait exploiter la bioluminescence comme source de lumière. Néanmoins, pouvons-nous nous rabattre sur cette hypothèse selon laquelle la bioluminescence pourrait à l’avenir nous servir de source lumineuse ?
+    Plusieurs images prouvent que l’on y a déjà pensé :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;static/img/luminescent trees&#34; alt=&#34;*luminescent trees*&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nous pouvons voir sur cette image que ce sont les arbres qui sont bioluminescents. Cela signifierait que ceux-ci, une fois plongés dans le noir, sont capables de bioluminescence. Une telle chose n’a pas encore vu le jour mais serait-il possible grâce à une bactérie de transmettre le gène de la bioluminescence à un arbre ou encore à d’autres plantes ?
+Pour cela, rien de plus simple en théorie. Il faut d’abord utiliser un outil classique en génétique végétale : une bactérie appelée Agrobactérium. Cette dernière a en effet une propriété précieuse pour les biologistes : elle est capable de transférer une partie de son ADN à l&#39;intérieur de la plante. Dans la nature, l&#39;ADN bactérien qui entre ainsi dans la cellule végétale a pour effet de provoquer chez elle des tumeurs appelées galles.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Une tumeur galle ?&lt;/em&gt;
+&lt;em&gt;On appelle galle (ou cécidie) une excroissance tumorale produite sur les tiges, feuilles ou fruits de certains végétaux, suite à des piqûres d&#39;animaux parasites. Certaines galles peuvent aussi être le fait de champignons, de nématodes ou de bactéries (Agrobacterium sur les rhizomes).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;static/img/galle&#34; alt=&#34;*galle*&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;•   Méthode afin de parvenir à un arbre/plante bioluminescent :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Naturellement :&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La bactérie Agrobacterium a la capacité de transférer une partie de son ADN à l&#39;intérieur de la plante.
+Plus précisément, c’est son plasmide (bout d’ADN circulaire) qui va s’intégrer au génome (l&#39;ensemble du matériel génétique d&#39;un organisme. Il contient à la fois les séquences codantes, c&#39;est-à-dire celles qui codent pour des protéines, et les séquences non codantes. Chez la majorité des organismes, le génome correspond à l&#39;ADN présent dans les cellules) de la plante.&lt;/p&gt;
+
+&lt;p&gt;Malheureusement, le gène que la plante exprime suite au transfert est le gène viral. Ce gène va infecter l’arbre en entier, produire des hormones de croissance et alors développer des tumeurs.&lt;/p&gt;
+
+&lt;p&gt;=&amp;gt; En conclusion, nous ne pouvons transformer un arbre naturellement pour qu’il devienne bioluminescent.&lt;/p&gt;
+
+&lt;p&gt;-Schéma récapitulatif :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;static/img/transfert_galle&#34; alt=&#34;*transfert galle*&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;En laboratoire&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En laboratoire, il est possible de supprimer le gène viral présent dans le plasmide qui est responsable de la galle végétale. Cette séquence génétique est remplacée par une autre, celle du gène codant pour la bioluminescence.
+Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la laisser tranquillement se multiplier. On  obtient ainsi une solution contenant des centaines de milliers de clones de la bactérie, porteurs de ce plasmide génétiquement modifié.&lt;/p&gt;
+
+&lt;p&gt;Il ne reste plus alors qu&#39;à mettre le végétal en contact avec les bactéries en l&#39;immergeant quelques secondes dans le mélange. Ces dernières injectent alors leur plasmide génétiquement modifié dans la plante qui, quelque temps plus tard, exprimera le gène qui la rendra bioluminescente.&lt;/p&gt;
+
+&lt;p&gt;Schéma récapitulatif :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;static/img/transfert_bio&#34; alt=&#34;*transfert bio*&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En théorie, l’idée est fantastique.&lt;/p&gt;
+
+&lt;p&gt;En effet, cette technique semble bien prometteuse mais certains problèmes voient le jour. La lumière ne sera pas d’assez forte intensité pour penser à remplacer toutes les ampoules et réverbères par des arbres et des plantes bioluminescentes.&lt;/p&gt;
+
+&lt;p&gt;De plus, cette manipulation comporte aussi des risques. Si l&#39;on peut apprécier l&#39;esthétique tout comme le côté pratique d&#39;un tel éclairage végétal, on peut en revanche s&#39;interroger sur le risque que représente la dissémination d&#39;une telle plante génétiquement modifiée dans l&#39;environnement urbain. On ne peut savoir quel sera l’effet de ce genre de plante une fois qu’elle sera dispersée dans la nature. On ne peut pas contrôler les plantes pour qu’elles ne dispersent pas leur graine, à moins encore de les rendre stériles.&lt;/p&gt;
+
+&lt;p&gt;Cette expérience possède également un handicap. C&#39;est une modification génétique mineure par rapport à celles couramment pratiquées pour doter des cultures de gènes de résistance aux herbicides par exemple mais pour produire de la lumière, les plantes consomment de l&#39;énergie. La bioluminescence constitue donc plutôt un désavantage par rapport aux plantes sauvages.&lt;/p&gt;
+
+&lt;p&gt;Cependant, elles présentent des avantages. Ces arbres  permettraient de réaliser de grandes économies d’énergie tout en participant à réduire la pollution en ville. La pollution lumineuse serait aussi impactée puisqu’elle est causée par une trop grande quantité de lumière artificielle.&lt;/p&gt;
+
+&lt;p&gt;Mais dans la réalité, qu’en serait-il ?&lt;/p&gt;
+
+&lt;p&gt;N’est-il pas risqué de jouer aux apprentis sorciers avec la Nature?&lt;/p&gt;
+
+&lt;p&gt;On ne connaît pas non plus les effets à long terme de ces organismes génétiquement modifiés. Et bien souvent, ils s’avèrent être néfastes comme c’est le cas pour les OGM agricoles&lt;/p&gt;
+
+&lt;p&gt;Malgré tout, des chercheurs sont tout de même parvenus à obtenir une plante bioluminescente :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;static/img/glowing_plant&#34; alt=&#34;*glowing plant*&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;C’est une plante génétiquement modifiée tout droit sortie du projet « Glowing Plant » d’Antony Evans, un entrepreneur basé à San Francisco en Amérique.&lt;/p&gt;
+
+&lt;p&gt;b) La bioluminescence dans nos rues :&lt;/p&gt;
+
+&lt;p&gt;On dépense de nos jours beaucoup d’argent pour l’éclairage. La bioluminescence serait donc la parfaite alternative.  En effet, plusieurs personnes ont d’ores et déjà pensé à cette option : remplacer chaque ampoule, réverbère par un organisme bioluminescent (plantes génétiquement modifiées, bactéries,…). Cependant, il est bien naturel de vouloir changer directement notre mode d’éclairage par celui-ci mais il n’est pas encore au point. Il existe, par contre, une possibilité : la signalisation. On utilise des surfaces réfléchissantes la nuit pour être en mesure de voir les différents panneaux qui nous permettent de suivre le code de la route. Et si ceux-ci, ainsi que d’autres structures, étaient plutôt lumineux grâce à la bioluminescence ? Si au lieu de se baser sur l’éclairage que l’on connait tous, pourquoi ne pas révolutionner ce mode ? Nous pourrions faire en sorte de rendre des matières bioluminescentes, ou juste des parties de constructions. Si chaque bâtiment, panneau, feu de signalisation, passage pour piétons,… comportait un élément de bioluminescence dans sa constitution, les rues seraient déjà éclairées.&lt;/p&gt;
+
+&lt;p&gt;Le projet Glowee a pensé à tout cela. Il étudie actuellement ces différents moyens afin de trouver une énergie réutilisable à l’infini qui ne présenterait pas un coût important et surtout qui n’accentuerait pas encore plus la pollution.&lt;/p&gt;
+
+&lt;p&gt;Voici quelques images se trouvant sur leur site : &lt;a href=&#34;http://www.glowee.eu/&#34;&gt;http://www.glowee.eu/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ajouter glowee&lt;/p&gt;
+
+&lt;p&gt;Toutes ces images sont encore à l’état de projet. Même si elles semblent idylliques, il se pourrait bien que ce soit notre futur mode d’éclairage l’extérieur.&lt;/p&gt;
+
+&lt;p&gt;Ce projet, si mené à bien, révolutionnera le style des rues ainsi que la façon dont nous percevons le monde. Au lieu de chercher à créer de l’énergie lumineuse, pourquoi ne pas utiliser celle qui se trouve déjà sous cette forme ?&lt;/p&gt;
+
+&lt;p&gt;c) La bioluminescence dans le milieu médical&lt;/p&gt;
 </description>
     </item>
     
