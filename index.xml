@@ -23,7 +23,7 @@
 &lt;p&gt;la bioluminescence a plusieurs fonctions, utilités. Il serait intéressant de pouvoir l’exploiter à notre profit. Nous vivons une période où les ressources de la Terre s’amoindrissent. Il arrivera un jour où nous manquerons de pétrole et d’autres éléments qui nous sont fort utiles dans notre vie quotidienne. Nous devrons nous rabattre sur les énergies vertes dites renouvelables telles que les éoliennes,  les panneaux solaires,… La bioluminescence pourrait alors devenir utile ici sur la terre ferme. Malgré toutes ses fonctionnalités, si la bioluminescence fait bien toujours une chose, c’est d’émettre de la lumière ! Certes, elle ne fournit que de l’énergie lumineuse et ne fonctionne pas comme les panneaux solaires ou les éoliennes mais on pourrait exploiter la bioluminescence comme source de lumière. Néanmoins, pouvons-nous nous rabattre sur cette hypothèse selon laquelle la bioluminescence pourrait à l’avenir nous servir de source lumineuse ?
     Plusieurs images prouvent que l’on y a déjà pensé :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/Luminescent trees.jpg&#34; alt=&#34;*luminescent trees*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/Luminescent%20trees.jpg&#34; alt=&#34;*luminescent trees*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Nous pouvons voir sur cette image que ce sont les arbres qui sont bioluminescents. Cela signifierait que ceux-ci, une fois plongés dans le noir, sont capables de bioluminescence. Une telle chose n’a pas encore vu le jour mais serait-il possible grâce à une bactérie de transmettre le gène de la bioluminescence à un arbre ou encore à d’autres plantes ?
 Pour cela, rien de plus simple en théorie. Il faut d’abord utiliser un outil classique en génétique végétale : une bactérie appelée Agrobactérium. Cette dernière a en effet une propriété précieuse pour les biologistes : elle est capable de transférer une partie de son ADN à l&#39;intérieur de la plante. Dans la nature, l&#39;ADN bactérien qui entre ainsi dans la cellule végétale a pour effet de provoquer chez elle des tumeurs appelées galles.&lt;/p&gt;
@@ -31,7 +31,7 @@ Pour cela, rien de plus simple en théorie. Il faut d’abord utiliser un outil 
 &lt;p&gt;&lt;em&gt;Une tumeur galle ?&lt;/em&gt;
 &lt;em&gt;On appelle galle (ou cécidie) une excroissance tumorale produite sur les tiges, feuilles ou fruits de certains végétaux, suite à des piqûres d&#39;animaux parasites. Certaines galles peuvent aussi être le fait de champignons, de nématodes ou de bactéries (Agrobacterium sur les rhizomes).&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/galle.jpg&#34; alt=&#34;*galle*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/galle.jpg&#34; alt=&#34;*galle*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;•   Méthode afin de parvenir à un arbre/plante bioluminescent :&lt;/p&gt;
 
@@ -48,7 +48,7 @@ Plus précisément, c’est son plasmide (bout d’ADN circulaire) qui va s’in
 
 &lt;p&gt;-Schéma récapitulatif :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/transfert_galle.png&#34; alt=&#34;*transfert galle*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/transfert_galle.png&#34; alt=&#34;*transfert galle*&#34; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;En laboratoire&lt;/li&gt;
@@ -61,7 +61,7 @@ Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la la
 
 &lt;p&gt;Schéma récapitulatif :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/transfert_bio.png&#34; alt=&#34;*transfert bio*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/transfert_bio.png&#34; alt=&#34;*transfert bio*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;En théorie, l’idée est fantastique.&lt;/p&gt;
 
@@ -81,7 +81,7 @@ Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la la
 
 &lt;p&gt;Malgré tout, des chercheurs sont tout de même parvenus à obtenir une plante bioluminescente :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/glowing_plant.png&#34; alt=&#34;*glowing plant*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/glowing_plant.jpg&#34; alt=&#34;*glowing plant*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;C’est une plante génétiquement modifiée tout droit sortie du projet « Glowing Plant » d’Antony Evans, un entrepreneur basé à San Francisco en Amérique.&lt;/p&gt;
 
@@ -91,11 +91,13 @@ Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la la
 
 &lt;p&gt;Le projet Glowee a pensé à tout cela. Il étudie actuellement ces différents moyens afin de trouver une énergie réutilisable à l’infini qui ne présenterait pas un coût important et surtout qui n’accentuerait pas encore plus la pollution.&lt;/p&gt;
 
-&lt;p&gt;Voici quelques images se trouvant sur leur site : &lt;a href=&#34;http://www.glowee.eu/&#34;&gt;http://www.glowee.eu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Voici quelques images se trouvant sur leur site : &lt;a href=&#34;http://www.glowee.eu/&#34;&gt;Site de Glowee project&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/glowee1.png&#34; alt=&#34;*glowee1*&#34; /&gt;
-&lt;img src=&#34;static/img/glowee2.png&#34; alt=&#34;*glowee2*&#34; /&gt;
-&lt;img src=&#34;static/img/glowee3.png&#34; alt=&#34;*glowee3*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/glowee1.png&#34; alt=&#34;*glowee1*&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/glowee2.png&#34; alt=&#34;*glowee2*&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/glowee3.png&#34; alt=&#34;*glowee3*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Toutes ces images sont encore à l’état de projet. Même si elles semblent idylliques, il se pourrait bien que ce soit notre futur mode d’éclairage l’extérieur.&lt;/p&gt;
 
@@ -111,7 +113,7 @@ Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la la
 
 &lt;p&gt;Chez des souris, des chercheurs ont réussi à visualiser in situ (cela signifie en latin « sur place ») des tumeurs en 3 dimensions en utilisant des bactéries bioluminescentes ciblant les cellules cancéreuses. Une première qui pourrait aboutir à des applications aussi bien dans l&#39;imagerie médicale que dans le domaine thérapeutique.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/mouse.jpg&#34; alt=&#34;*mouse*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/mouse.jpg&#34; alt=&#34;*mouse*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;La souris porte donc une grosseur sur son flanc droit. Le gène lux exprimé par les bactéries est représenté sur cette image en jaune/orange. Les couleurs varient en fonction de la concentration bactérienne : plus c&#39;est rouge et plus c&#39;est dense.&lt;/p&gt;
 
@@ -131,7 +133,7 @@ Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la la
 
 &lt;p&gt;Un traitement d’image permettant de calibrer la quantité de lumière selon un gradient de couleur est utilisé (la lumière capturée par la caméra est due uniquement à la réaction catalysée par la luciférase apportée par le virus vNHI-LUC.)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/fish.png&#34; alt=&#34;*fish*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/fish.png&#34; alt=&#34;*fish*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Comme dans la cancérologie, la bioluminescence permet la détection et le suivi de la propagation d’une maladie par l’émission de photons.&lt;/p&gt;
 
@@ -143,12 +145,12 @@ Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la la
 
 &lt;p&gt;En tant que source lumineuse la bioluminescence possède de nnombreux avantages :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/avantage 1.png&#34; alt=&#34;*avantage 1*&#34; /&gt;
-&lt;img src=&#34;static/img/avantage 2.png&#34; alt=&#34;*avantage 2 *&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/avantage%201.png&#34; alt=&#34;*avantage 1*&#34; /&gt;
+&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/avantage%202.png&#34; alt=&#34;*avantage 2 *&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;De plus, elle diminuerait de 19% la pollution lumineuse. Voici une image qui encourage le développement de la bioluminescence comme éclairage urbain en exposant les inconvénients de l’éclairage actuel :&lt;/p&gt;
 
-&lt;p&gt;19 percent&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/19%20percent.png&#34; alt=&#34;*19*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Il en est de même dans le milieu médical : la capacité de transfecter le gène de la bioluminescence à des cellules cancéreuses ou encore grâce à de l’ATP permet une avancée dans le traitement de certaines maladies.&lt;/p&gt;
 
@@ -185,7 +187,7 @@ La bioluminescence est la production et l’émission de lumière froide par cer
 
 &lt;p&gt;On définit une lumière froide ou chaude en fonction de la couleur de cette source lumineuse.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/cold_light.jpg&#34; alt=&#34;*Lumière froide*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/cold_light.jpg&#34; alt=&#34;*Lumière froide*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;La lumière commence à être considérée froide quand elle vire au bleu.&lt;/p&gt;
 
@@ -221,7 +223,7 @@ La bioluminescence est la production et l’émission de lumière froide par cer
 
 &lt;p&gt;Exemple : Il existe une espèce de calamar qui, en dormant la journée, récupère la lumière émise par le soleil et ensuite celle de la lune et des étoiles pour activer la bioluminescence des colonies de bactéries se trouvant dans ses lobes sur chacun de ses côtés. La nuit, il relâche les bactéries qui l’entourent. Elles effacent son ombre et il peut ainsi ne pas être détecté. (Vidéo de Bonnie Bassler&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KXWurAmtf78&amp;amp;list=PLkQqhJGfvcWOgDxz430dcs23KLgyZbtFh#t=489.3990602)&#34;&gt;https://www.youtube.com/watch?v=KXWurAmtf78&amp;amp;list=PLkQqhJGfvcWOgDxz430dcs23KLgyZbtFh#t=489.3990602)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KXWurAmtf78&amp;amp;list=PLkQqhJGfvcWOgDxz430dcs23KLgyZbtFh#t=489.3990602&#34;&gt;Youtube&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;c. L’attraction des proies :&lt;/p&gt;
 
@@ -263,7 +265,7 @@ La bioluminescence est la production et l’émission de lumière froide par cer
 
 &lt;p&gt;Schéma récapitulati :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/récapitulatif.png&#34; alt=&#34;*récapitulatif*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/r%C3%A9capitulatif.png&#34; alt=&#34;*récapitulatif*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;La majorité des émissions lumineuses marines appartiennent au spectre lumineux du bleu et du vert, les longueurs d&#39;onde qui peuvent être facilement observées à  travers l&#39;eau. Plus rarement, certaines espèces émettent dans le rouge ou dans l&#39;infrarouge.&lt;/p&gt;
 
@@ -294,7 +296,7 @@ La bioluminescence est la production et l’émission de lumière froide par cer
 
 &lt;p&gt;Schéma récapitulatif :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;static/img/récapitulatif2_bis.png&#34; alt=&#34;*récapitulatif2&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/r%C3%A9capitulatif2_bis.png&#34; alt=&#34;*récapitulatif2&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ce  phénomène  est  uniquement  connu  chez  les  animaux  marins  comme  les cténophores,  les  cnidaires, les vers, les mollusques, les échinodermes et les poissons. Il semble que ce soit le type de bioluminescence le plus répandu du règne animal. Certaines  espèces  produisent  de  la  lumière  continue  dont  l’intensité peut  être  neutralisée  ou  modulée  au  moyen  de  diverses  structures  spécialisées.  Les  organes  lumineux  sont  généralement  reliés au système nerveux, ce qui permet à l’animal de contrôler l’émission lumineuse. Chez  les  bactéries,  l’expression des  gènes  liés  à  la  bioluminescence  est  contrôlée  par  le lux opéron (contrôle la production de lumière).&lt;/p&gt;
 </description>
