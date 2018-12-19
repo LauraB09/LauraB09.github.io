@@ -48,7 +48,7 @@ Plus précisément, c’est son plasmide (bout d’ADN circulaire) qui va s’in
 
 &lt;p&gt;-Schéma récapitulatif :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/transfert_galle.png&#34; alt=&#34;*transfert galle*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../..//img/transfert_galle.png&#34; alt=&#34;*transfert galle*&#34; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;En laboratoire&lt;/li&gt;
@@ -61,7 +61,7 @@ Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la la
 
 &lt;p&gt;Schéma récapitulatif :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/transfert_bio.png&#34; alt=&#34;*transfert bio*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../..//img/transfert_bio.png&#34; alt=&#34;*transfert bio*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;En théorie, l’idée est fantastique.&lt;/p&gt;
 
@@ -81,7 +81,7 @@ Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la la
 
 &lt;p&gt;Malgré tout, des chercheurs sont tout de même parvenus à obtenir une plante bioluminescente :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/glowing_plant.jpg&#34; alt=&#34;*glowing plant*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../..//img/glowing_plant.jpg&#34; alt=&#34;*glowing plant*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;C’est une plante génétiquement modifiée tout droit sortie du projet « Glowing Plant » d’Antony Evans, un entrepreneur basé à San Francisco en Amérique.&lt;/p&gt;
 
@@ -93,11 +93,11 @@ Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la la
 
 &lt;p&gt;Voici quelques images se trouvant sur leur site : &lt;a href=&#34;http://www.glowee.eu/&#34;&gt;Site de Glowee project&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/glowee1.png&#34; alt=&#34;*glowee1*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../..//img/glowee1.png&#34; alt=&#34;*glowee1*&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/glowee2.png&#34; alt=&#34;*glowee2*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../..//img/glowee2.png&#34; alt=&#34;*glowee2*&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/glowee3.png&#34; alt=&#34;*glowee3*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../..//img/glowee3.png&#34; alt=&#34;*glowee3*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Toutes ces images sont encore à l’état de projet. Même si elles semblent idylliques, il se pourrait bien que ce soit notre futur mode d’éclairage l’extérieur.&lt;/p&gt;
 
@@ -113,7 +113,7 @@ Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la la
 
 &lt;p&gt;Chez des souris, des chercheurs ont réussi à visualiser in situ (cela signifie en latin « sur place ») des tumeurs en 3 dimensions en utilisant des bactéries bioluminescentes ciblant les cellules cancéreuses. Une première qui pourrait aboutir à des applications aussi bien dans l&#39;imagerie médicale que dans le domaine thérapeutique.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/mouse.jpg&#34; alt=&#34;*mouse*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../..//img/mouse.jpg&#34; alt=&#34;*mouse*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;La souris porte donc une grosseur sur son flanc droit. Le gène lux exprimé par les bactéries est représenté sur cette image en jaune/orange. Les couleurs varient en fonction de la concentration bactérienne : plus c&#39;est rouge et plus c&#39;est dense.&lt;/p&gt;
 
@@ -133,7 +133,7 @@ Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la la
 
 &lt;p&gt;Un traitement d’image permettant de calibrer la quantité de lumière selon un gradient de couleur est utilisé (la lumière capturée par la caméra est due uniquement à la réaction catalysée par la luciférase apportée par le virus vNHI-LUC.)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/fish.png&#34; alt=&#34;*fish*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../..//img/fish.png&#34; alt=&#34;*fish*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Comme dans la cancérologie, la bioluminescence permet la détection et le suivi de la propagation d’une maladie par l’émission de photons.&lt;/p&gt;
 
@@ -145,12 +145,12 @@ Il suffit ensuite de placer ce plasmide modifié dans la bactérie puis de la la
 
 &lt;p&gt;En tant que source lumineuse la bioluminescence possède de nnombreux avantages :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/avantage%201.png&#34; alt=&#34;*avantage 1*&#34; /&gt;
-&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/avantage%202.png&#34; alt=&#34;*avantage 2 *&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../..//img/avantage1.png&#34; alt=&#34;*avantage 1*&#34; /&gt;
+&lt;img src=&#34;../..//img/avantage2.png&#34; alt=&#34;*avantage 2 *&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;De plus, elle diminuerait de 19% la pollution lumineuse. Voici une image qui encourage le développement de la bioluminescence comme éclairage urbain en exposant les inconvénients de l’éclairage actuel :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8787/files/shared/projects/blogdown.source/static/img/19%20percent.png&#34; alt=&#34;*19*&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../..//img/19%percent.png&#34; alt=&#34;*19*&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Il en est de même dans le milieu médical : la capacité de transfecter le gène de la bioluminescence à des cellules cancéreuses ou encore grâce à de l’ATP permet une avancée dans le traitement de certaines maladies.&lt;/p&gt;
 
